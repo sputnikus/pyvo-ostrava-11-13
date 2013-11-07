@@ -120,7 +120,7 @@ Erlang, Elixir, Scala, Rust
 
 # Lazy evaluation
 
-> In programming language theory, lazy evaluation, or call-by-need[1] is an evaluation strategy which delays the evaluation of an expression until its value is needed (non-strict evaluation) and which also avoids repeated evaluations (sharing).
+> In programming language theory, lazy evaluation, or call-by-need is an evaluation strategy which delays the evaluation of an expression until its value is needed (non-strict evaluation) and which also avoids repeated evaluations (sharing).
 
 > <cite>[Wikipedia](https://en.wikipedia.org/wiki/Lazy_evaluation "Lazy evaluation on Wikipedia")</cite>
 
@@ -129,3 +129,20 @@ Erlang, Elixir, Scala, Rust
 * Generátory
 * Iterátory
 * itertools
+
+!SLIDE no-bullet
+
+# Iterační protokol
+
+* \__iter__
+* next/\__next__
+
+!SLIDE
+
+# yield
+
+*yield* / *(yield)* / *yield from*
+
+!SLIDE
+
+
