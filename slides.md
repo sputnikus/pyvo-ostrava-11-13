@@ -100,7 +100,7 @@ Erlang, Elixir, Scala, Rust
 
 * Currying
 * Kompozice funkcí
-* Makra (ehm...)
+* Makra (*ehm...*)
 
 !SLIDE
 
@@ -145,4 +145,47 @@ Erlang, Elixir, Scala, Rust
 
 !SLIDE
 
+# Coroutines
 
+Stream processing v Pythonu
+
+!SLIDE no-bullet
+
+* next() / send()
+* throw()
+* close()
+
+[Coroutine tutorial](http://sdiehl.github.io/coroutine-tutorial/)
+
+!SLIDE
+
+## Jedna z nejlepší featur
+
+### Nekonečné sekvence
+### s malým footprintem
+
+!SLIDE no-bullet
+
+# A další
+
+* Context managery (*with*)
+* Metaclassy (*ehm...*)
+
+!SLIDE
+
+## Času je málo,
+### informací hodně
+
+!SLIDE
+
+# Pro víc
+
+* Dotazy
+* Pokec
+* Internet
+
+Nebo oboje
+
+!SLIDE
+
+# Děkujeme
