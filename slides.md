@@ -4,8 +4,6 @@
 
 # Python funkcionálně
 
-## (co vám neříkají)
-
 !SLIDE
 
 ## by Martin Putniorz
