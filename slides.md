@@ -168,7 +168,9 @@ Stream processing v Pythonu
 
 # A další
 
-* Context managery (*with*)
+* Comprehensions (*list, dict, set*)
+* MapReduce (*ehm...*)
+* Context managery
 * Metaclassy (*ehm...*)
 
 !SLIDE
