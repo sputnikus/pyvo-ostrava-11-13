@@ -10,7 +10,7 @@
 
 ## by Martin Putniorz
 
-### FP enthusiast
+### Hacker and FP enthusiast
 
 !SLIDE no-bullet
 
@@ -171,7 +171,6 @@ Stream processing v Pythonu
 * Comprehensions (*list, dict, set*)
 * MapReduce (*ehm...*)
 * Context managery
-* Metaclassy (*ehm...*)
 
 !SLIDE
 
