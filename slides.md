@@ -124,6 +124,8 @@ Erlang, Elixir, Scala, Rust
 
 !SLIDE no-bullet
 
+# Tools of trade
+
 * Generátory
 * Iterátory
 * itertools
