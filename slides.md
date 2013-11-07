@@ -177,12 +177,12 @@ Stream processing v Pythonu
 ## Času je málo,
 ### informací hodně
 
-!SLIDE
+!SLIDE no-bullet
 
 # Pro víc
 
 * Dotazy
-* Pokec
+* Networking
 * Internet
 
 Nebo oboje
