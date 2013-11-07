@@ -185,7 +185,7 @@ Stream processing v Pythonu
 * Networking
 * Internet
 
-Nebo oboje
+Nebo oboje troje
 
 !SLIDE
 
